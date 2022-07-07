@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tymofii
+- 👀 I'm interested in your the best offer to me
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on long term base
+- 📫 How to reach me: telegram ([tim1u](https://t.me/tim1u)), LinkedIn (https://www.linkedin.com/in/97706971/), mail (timotey0412@gmail.com)
